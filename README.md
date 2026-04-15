@@ -120,6 +120,7 @@ Displays full company details, ICP fit summary, intent signals, and lead context
 ---
 
 #### 📤 Sender Outreach — Email Workspace
+<img width="1501" height="812" alt="image" src="https://github.com/user-attachments/assets/6189cac5-6afe-4a3f-b7b0-7101beda1d51" />
 
 This tab handles the first outbound message and any proactive follow-ups from sender to a lead contact.
 
@@ -146,6 +147,7 @@ Guardrails (`pre_send_check`) run first, then behaviour depends on mode:
 ---
 
 #### 💬 Customer Reply — Customer Reply Workspace
+<img width="1474" height="847" alt="image" src="https://github.com/user-attachments/assets/c0e50bba-3cf3-4d34-bb91-8efae5acde0d" />
 
 This tab simulates or manages the customer-side response to the latest sender message.
 
@@ -167,6 +169,7 @@ This tab simulates or manages the customer-side response to the latest sender me
 ---
 
 #### 📥 Sender Replies — Sender Reply Workspace
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/e919ccbc-057d-4090-9109-800cf23d8fa6" />
 
 This tab handles sender responses to inbound customer messages already received in the sender inbox.
 
@@ -195,12 +198,15 @@ This tab handles sender responses to inbound customer messages already received 
 | **Scheduling action detected** | Shows `book_slot` when the parser detects a bookable scheduling intent in the customer reply. |
 | **Reply subject / body** | Editable even in guided mode — always review before drafting. |
 | **Current sender calendar availability** | Live slot panel — verify open slots before finalising the draft. |
+<img width="709" height="455" alt="image" src="https://github.com/user-attachments/assets/36c6630b-0ad0-4ce2-8356-94a795e7bb15" />
+
 
 **On clicking Draft in Sender Gmail:** the system applies the sender plan — if a scheduling action exists, it may create/update/cancel a calendar event first, then creates a threaded draft in the sender Gmail inbox. You send it manually from Gmail.
 
 ---
 
 #### 🔔 Notifications & Message Log — Bottom Panels
+<img width="1501" height="549" alt="image" src="https://github.com/user-attachments/assets/07f923bc-46eb-4d9b-9efd-4433176abc60" />
 
 These panels sit at the bottom of the dashboard and provide operational visibility across all tabs.
 
@@ -246,6 +252,7 @@ Sender Replies   →  draft response from sender Gmail  →  send manually
 ---
 
 ## ⚡ How Email & Calendar Booking Works (Internals)
+<img width="1532" height="748" alt="image" src="https://github.com/user-attachments/assets/de891ab9-785e-4b25-bc89-5ce09678bda4" />
 
 ### Email flow
 
