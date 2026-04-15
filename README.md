@@ -400,12 +400,4 @@ GROQ_MODEL=llama-3.1-8b-instant
 LOCALXPOSE_ACCESS_TOKEN=your_localxpose_token
 ```
 
----
 
-## 🤝 Contributing
-
-1. Create a feature branch.
-2. Use `mainapp2.py` for all UI changes — avoid the deprecated `mainapp.py`.
-3. Submit a PR with a detailed description of any logic changes in `services/` or `tabs/`.
-
----
