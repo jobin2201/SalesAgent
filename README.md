@@ -7,6 +7,8 @@ An end-to-end autonomous sales ecosystem designed to ingest leads, score them ba
 The AI Sales Agent acts as a digital SDR (Sales Development Representative), automating the "top of the funnel." It connects to MongoDB to track lead lifecycles and provides a Streamlit-based dashboard for human oversight.
 
 ---
+<img width="1884" height="898" alt="image" src="https://github.com/user-attachments/assets/1f04dca3-4a78-455a-8c18-8c4a8ad6c1fe" />
+
 
 ## 🛠 Architecture & File Structure
 
