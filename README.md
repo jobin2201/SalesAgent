@@ -153,7 +153,7 @@ This tab simulates or manages the customer-side response to the latest sender me
 |-----------------|-------------|
 | **Sender Email Snapshot** | Shows the latest sender email found in the customer inbox — From, To, Subject, and full body. This is the message the customer is responding to. |
 | **Reply style** | `Guided flow` offers structured response patterns. `Manual reply` gives full freeform control. |
-| **Choose reply path** | Selects the intent goal, e.g. *Accept a proposed slot*. A description explains what that path achieves. |
+| **Choose reply path** | Selects the intent goal, e.g. *Accept a proposed slot*, *Ask for more clarity*. A description explains what that path achieves. |
 | **Pick preferred slot** | Pulls available slot options from sender calendar context. |
 | **Preferred duration** | Sets the requested meeting length. |
 | **Pick start time inside selected slot** | Allows precise sub-selection within an available window. |
